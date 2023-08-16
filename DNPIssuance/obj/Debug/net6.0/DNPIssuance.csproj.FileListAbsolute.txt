@@ -1,0 +1,231 @@
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\DNPIssuance.exe
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\DNPIssuance.deps.json
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\DNPIssuance.runtimeconfig.json
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\DNPIssuance.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\DNPIssuance.pdb
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza\source\repos\Representative\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\DNPIssuance.csproj.AssemblyReference.cache
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\DNPIssuance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\DNPIssuance.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\DNPIssuance.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\DNPIssuance.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\DNPIssuance.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\DNPIssuance.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\staticwebassets\msbuild.DNPIssuance.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\staticwebassets\msbuild.build.DNPIssuance.props
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DNPIssuance.props
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DNPIssuance.props
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\scopedcss\bundle\DNPIssuance.styles.css
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\DNPIssuance.csproj.CopyComplete
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\DNPIssuance.dll
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\refint\DNPIssuance.dll
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\DNPIssuance.pdb
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\DNPIssuance.genruntimeconfig.cache
+C:\Users\Hamza\source\repos\Representative\obj\Debug\net6.0\ref\DNPIssuance.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\appsettings.Development.json
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\appsettings.json
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\DNPIssuance.exe
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\DNPIssuance.deps.json
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\DNPIssuance.runtimeconfig.json
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\DNPIssuance.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\DNPIssuance.pdb
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Azure.Core.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Azure.Identity.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Humanizer.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\DNPIssuance.csproj.AssemblyReference.cache
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\DNPIssuance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\DNPIssuance.AssemblyInfoInputs.cache
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\DNPIssuance.AssemblyInfo.cs
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\DNPIssuance.csproj.CoreCompileInputs.cache
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\DNPIssuance.MvcApplicationPartsAssemblyInfo.cs
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\DNPIssuance.MvcApplicationPartsAssemblyInfo.cache
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\staticwebassets\msbuild.DNPIssuance.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\staticwebassets\msbuild.build.DNPIssuance.props
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DNPIssuance.props
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DNPIssuance.props
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\staticwebassets.build.json
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\staticwebassets.development.json
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\scopedcss\bundle\DNPIssuance.styles.css
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\DNPIssuance.csproj.CopyComplete
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\DNPIssuance.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\refint\DNPIssuance.dll
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\DNPIssuance.pdb
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\DNPIssuance.genruntimeconfig.cache
+D:\Development\PITB\MVRS_Revamp_API Development\DNPIssuance\obj\Debug\net6.0\ref\DNPIssuance.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\appsettings.Development.json
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\appsettings.json
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\DNPIssuance.exe
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\DNPIssuance.deps.json
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\DNPIssuance.runtimeconfig.json
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\DNPIssuance.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\DNPIssuance.pdb
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Azure.Core.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Azure.Identity.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Humanizer.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\System.Memory.Data.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PITB Projects\MVRS\DNPIssuance\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\DNPIssuance.csproj.AssemblyReference.cache
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\DNPIssuance.GeneratedMSBuildEditorConfig.editorconfig
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\DNPIssuance.AssemblyInfoInputs.cache
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\DNPIssuance.AssemblyInfo.cs
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\DNPIssuance.csproj.CoreCompileInputs.cache
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\DNPIssuance.MvcApplicationPartsAssemblyInfo.cs
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\DNPIssuance.MvcApplicationPartsAssemblyInfo.cache
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\staticwebassets\msbuild.DNPIssuance.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\staticwebassets\msbuild.build.DNPIssuance.props
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DNPIssuance.props
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DNPIssuance.props
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\staticwebassets.build.json
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\staticwebassets.development.json
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\scopedcss\bundle\DNPIssuance.styles.css
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\DNPIssuance.csproj.CopyComplete
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\DNPIssuance.dll
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\refint\DNPIssuance.dll
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\DNPIssuance.pdb
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\DNPIssuance.genruntimeconfig.cache
+D:\PITB Projects\MVRS\DNPIssuance\obj\Debug\net6.0\ref\DNPIssuance.dll
